@@ -1,2 +1,5 @@
 # hello-world
-test and first repository
+
+Hi humans!
+
+Roy here, I like new things, and I am learning Github as a beginner...
